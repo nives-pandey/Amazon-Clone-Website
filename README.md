@@ -10,7 +10,7 @@
   - complete databse and deployment using firebase. 
 - Also the website is completely responsive which is created using react.js.
 
-#installation
+# installation
 
 - In order to get this code up and running in your VS-Code follow the given steps below:
 
@@ -22,7 +22,7 @@
   - Now give cmd $ npm start
   - You will be able to use the website now on your local host 3000
 
-#Deployment on firebase
+# Deployment on firebase
 
 - In order to use the backend of the project and to deploy on firebase do the followings:
 - run firebase tool cmd then run firebase init.
