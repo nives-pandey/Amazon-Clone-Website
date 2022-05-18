@@ -10,7 +10,7 @@
   - complete databse and deployment using firebase. 
 - Also the website is completely responsive which is created using react.js.
 
-# installation
+# Installation
 
 - In order to get this code up and running in your VS-Code follow the given steps below:
 
